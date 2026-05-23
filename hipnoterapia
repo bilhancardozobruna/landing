@@ -1,0 +1,423 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Hipnoterapia Online para Ansiedade, Autoestima e Segurança Emocional</title>
+
+  <meta name="description" content="Hipnoterapia online acolhedora para mulheres que desejam ressignificar ansiedade, insegurança, procrastinação e desenvolver mais autoconfiança, leveza e segurança emocional.">
+
+  <meta name="keywords" content="hipnoterapia para ansiedade, hipnoterapia online, autoestima, insegurança emocional, hipnose terapêutica">
+
+  <style>
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      color: #333;
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #f7f0ff, #ffffff);
+      padding: 90px 0;
+    }
+
+    .hero-content {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 50px;
+      align-items: center;
+    }
+
+    .tag {
+      display: inline-block;
+      background: #ede2ff;
+      color: #6f42c1;
+      padding: 10px 16px;
+      border-radius: 50px;
+      margin-bottom: 20px;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    h1 {
+      font-size: 54px;
+      line-height: 1.1;
+      margin-bottom: 24px;
+      color: #222;
+    }
+
+    .subtitle {
+      font-size: 20px;
+      color: #555;
+      margin-bottom: 32px;
+    }
+
+    .button {
+      display: inline-block;
+      background: #6f42c1;
+      color: white;
+      padding: 16px 28px;
+      border-radius: 14px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      opacity: 0.95;
+    }
+
+    .hero-card,
+    .card {
+      background: white;
+      padding: 32px;
+      border-radius: 24px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    .hero-card h2,
+    .card h3 {
+      margin-bottom: 18px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .section {
+      padding: 90px 0;
+    }
+
+    .background-light {
+      background: #faf7ff;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 50px;
+      align-items: center;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      margin-top: 40px;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 40px;
+      margin-bottom: 24px;
+      color: #222;
+    }
+
+    .card p,
+    .section p,
+    li {
+      color: #555;
+    }
+
+    .cta-section {
+      padding: 90px 0;
+    }
+
+    .cta-box {
+      background: #6f42c1;
+      color: white;
+      padding: 70px 40px;
+      border-radius: 28px;
+      text-align: center;
+    }
+
+    .cta-box h2 {
+      color: white;
+      margin-bottom: 20px;
+    }
+
+    .cta-box p {
+      margin-bottom: 30px;
+      font-size: 18px;
+    }
+
+    footer {
+      background: #111;
+      color: white;
+      padding: 30px 0;
+      text-align: center;
+    }
+
+    @media (max-width: 900px) {
+
+      .hero-content,
+      .grid-2,
+      .cards {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 40px;
+      }
+
+      h2 {
+        font-size: 32px;
+      }
+
+    }
+
+    @media (max-width: 600px) {
+
+      .hero,
+      .section,
+      .cta-section {
+        padding: 60px 0;
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      h2 {
+        font-size: 28px;
+      }
+
+      .subtitle {
+        font-size: 18px;
+      }
+
+      .button {
+        width: 100%;
+        text-align: center;
+      }
+
+      .hero-card,
+      .card,
+      .cta-box {
+        padding: 24px;
+      }
+
+    }
+
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <div class="container hero-content">
+
+      <div>
+
+        <span class="tag">Atendimento Online • Hipnoterapia</span>
+
+        <h1>
+          Ressignifique Ansiedade, Insegurança e Baixa Autoestima
+        </h1>
+
+        <p class="subtitle">
+          Um espaço acolhedor para mulheres que desejam compreender e transformar padrões emocionais ligados à ansiedade, insegurança, procrastinação e autossabotagem.
+        </p>
+
+        <a href="https://wa.me/5548920030809" class="button" target="_blank">
+          AGENDAR SESSÃO
+        </a>
+
+      </div>
+
+      <div class="hero-card">
+
+        <h2>Talvez você esteja cansada de sentir que precisa dar conta de tudo o tempo inteiro</h2>
+
+        <ul>
+          <li>Pensamentos acelerados e ansiedade constante</li>
+          <li>Dificuldade em confiar em si mesma</li>
+          <li>Autocobrança e sensação de insuficiência</li>
+          <li>Procrastinação e bloqueios emocionais</li>
+          <li>Cansaço emocional e excesso de controle</li>
+        </ul>
+
+      </div>
+
+    </div>
+  </header>
+
+  <section class="section">
+    <div class="container grid-2">
+
+      <div>
+
+        <h2>O que é Hipnoterapia?</h2>
+
+        <p>
+          A hipnoterapia é uma abordagem terapêutica que utiliza estados de relaxamento e foco profundo para acessar padrões emocionais, crenças e respostas automáticas da mente.
+        </p>
+
+        <br>
+
+        <p>
+          Durante a sessão, você permanece consciente o tempo inteiro. O processo acontece de forma leve, acolhedora e respeitando o seu ritmo emocional.
+        </p>
+
+      </div>
+
+      <div class="card">
+
+        <h3>O que você pode desenvolver ao longo do processo</h3>
+
+        <ul>
+          <li>Mais segurança emocional</li>
+          <li>Mais autoconfiança</li>
+          <li>Redução da ansiedade</li>
+          <li>Mais clareza mental</li>
+          <li>Mais leveza emocional</li>
+          <li>Menos autossabotagem</li>
+        </ul>
+
+      </div>
+
+    </div>
+  </section>
+
+  <section class="section background-light">
+
+    <div class="container">
+
+      <h2 class="center">Como funcionam as sessões?</h2>
+
+      <div class="cards">
+
+        <div class="card">
+          <h3>1. Conversa Inicial</h3>
+          <p>
+            Entendimento das suas dificuldades emocionais e objetivos terapêuticos.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>2. Processo Terapêutico</h3>
+          <p>
+            Técnicas de hipnoterapia voltadas para ressignificação emocional.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>3. Desenvolvimento Emocional</h3>
+          <p>
+            Construção de novas respostas emocionais com mais leveza e segurança.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section class="section">
+
+    <div class="container">
+
+      <h2 class="center">Para quem é esse acompanhamento?</h2>
+
+      <div class="cards">
+
+        <div class="card">
+          <p>Mulheres que vivem em estado constante de ansiedade e autocobrança</p>
+        </div>
+
+        <div class="card">
+          <p>Mulheres que sentem insegurança emocional e dificuldade em confiar em si mesmas</p>
+        </div>
+
+        <div class="card">
+          <p>Mulheres que desejam desenvolver mais autoestima, leveza e autoconfiança</p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section class="section background-light">
+
+    <div class="container">
+
+      <h2 class="center">Depoimentos</h2>
+
+      <div class="cards">
+
+        <div class="card">
+          <p>
+            “Percebi mudanças na forma como eu me vejo e me posiciono.”
+          </p>
+        </div>
+
+        <div class="card">
+          <p>
+            “Hoje consigo lidar com a ansiedade com muito mais calma e clareza.”
+          </p>
+        </div>
+
+        <div class="card">
+          <p>
+            “Me sinto mais segura, leve e conectada comigo mesma.”
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <section class="cta-section">
+
+    <div class="container cta-box">
+
+      <h2>
+        Você merece viver com mais leveza, segurança e confiança em si mesma
+      </h2>
+
+      <p>
+        Clique abaixo para entender como funciona o acompanhamento terapêutico e agendar sua sessão online.
+      </p>
+
+      <a href="https://wa.me/5548920030809" class="button" target="_blank">
+        FALAR NO WHATSAPP
+      </a>
+
+    </div>
+
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>
+        Hipnoterapia Online • Atendimento para mulheres
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>
